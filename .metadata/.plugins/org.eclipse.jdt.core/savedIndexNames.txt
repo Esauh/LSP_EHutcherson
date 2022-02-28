@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Esau\LSP_EHutcherson\.metadata\.plugins\org.eclipse.jdt.core
+364384390.index
+2360426812.index
+2671099652.index
+252031858.index
+1865797976.index

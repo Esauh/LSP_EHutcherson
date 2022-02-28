@@ -1,0 +1,8 @@
+package org.howard.edu.lsp.assignment5.implementation;
+
+public class Listemptyexception extends Exception {
+
+	public Listemptyexception() {
+		super("The list needs to hold at least one value");
+	}
+}
