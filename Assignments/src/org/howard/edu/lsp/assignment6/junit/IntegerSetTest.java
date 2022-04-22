@@ -9,7 +9,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
 import java.util.ArrayList;
-
 import org.howard.edu.lsp.assignment6.integerset.IntegerSet;
 import org.howard.edu.lsp.assignment6.integerset.ListEmptyException;
 import org.junit.jupiter.api.DisplayName;
